@@ -8,6 +8,7 @@
             "name":"Nintendo Life"
          },
          "author":"Liam Doolan",
+         "category":"entertainment",
          "title":"My Nintendo Store Adds New Mario & Luigi: Brothership Exclusive Reward (US) - Nintendo Life",
          "description":"Celebrate with some themed goodies",
          "url":"https://www.nintendolife.com/news/2024/11/my-nintendo-store-adds-new-mario-and-luigi-brothership-rewards",
@@ -21,6 +22,7 @@
             "name":"The Verge"
          },
          "author":"Umar Shakir",
+         "category":"entertainment",
          "title":"Take-Two is selling its indie games label Private Division - The Verge",
          "description":"Take-Two’s indie game publishing label, Private Division, has been sold to an unknown buyer, however No Rest for the Wicked will remain with Take-Two.",
          "url":"https://www.theverge.com/2024/11/6/24289932/take-two-private-division-publisher-sale",
@@ -34,6 +36,7 @@
             "name":"TechCrunch"
          },
          "author":"Sarah Perez",
+         "category":"technology",
          "title":"Apple iOS 18.2 public beta arrives with new AI features, but some remain waitlisted - TechCrunch",
          "description":"Apple has released the AI-powered version of its latest mobile operating system, iOS 18.2, to its public beta users. The update includes new features like",
          "url":"https://techcrunch.com/2024/11/06/apple-ios-18-2-public-beta-arrives-with-new-ai-features-but-some-remain-waitlisted/",
@@ -47,6 +50,7 @@
             "name":"The Verge"
          },
          "author":"Sheena Vasani",
+         "category":"entertainment",
          "title":"Galaxy S25 ‘Slim’ rumors suggest a skinny phone showdown next year - The Verge",
          "description":"A product database shows Samsung might add a new model to the Galaxy S25 lineup, following rumors of a “slim” phone to compete with a rumored iPhone 17 slim.",
          "url":"https://www.theverge.com/2024/11/6/24289757/samsung-galaxy-s25-slim-iphone-17-rumor-sm-s937u",
@@ -60,6 +64,7 @@
             "name":"9to5google.com"
          },
          "author":"Abner Li",
+         "category":"technology",
          "title":"Android 15 November security patch rolling out: What’s fixed for Pixel - 9to5Google",
          "description":"The first update to Android 15 is rolling out with the November security patch for the Pixel 8, 8 Pro, 9, 9 Pro, 9 Pro XL, and 9 Pro Fold.",
          "url":"http://9to5google.com/2024/11/06/android-15-november-security-patch-pixel/",
@@ -73,6 +78,7 @@
             "name":"AppleInsider"
          },
          "author":"Mike Wuerthele  and Malcolm Owen",
+         "category":"technology",
          "title":"Generation gaps: How much faster Apple Silicon gets with each release - AppleInsider",
          "description":"Apple Silicon speed has steadily improved since the debut in 2020. Here's how much faster Apple has made its chips in just four years.",
          "url":"https://appleinsider.com/articles/24/11/06/generation-gaps-how-much-faster-apple-silicon-gets-with-each-release",
@@ -86,6 +92,7 @@
             "name":"MacRumors"
          },
          "author":"Joe Rossignol",
+         "category":"science",
          "title":"Apple Intelligence Servers Expected to Start Using M4 Chips Next Year After M2 Ultra This Year - MacRumors",
          "description":"Apple plans to start using the M4 chip in its Apple Intelligence servers next year, according to a Nikkei Asia report this week, citing TrendForce...",
          "url":"https://www.macrumors.com/2024/11/06/apple-intelligence-servers-with-m4-chips-report/",
@@ -99,6 +106,7 @@
             "name":"New York Post"
          },
          "author":"Taylor Knight",
+         "category":"science",
          "title":"Here’s how to tell if your air fryer is spying on you: ‘This is often done’ - New York Post ",
          "description":"Frying and spying.",
          "url":"https://nypost.com/2024/11/06/tech/heres-how-to-tell-if-your-air-fryer-is-spying-on-you-this-is-often-done/",
@@ -112,6 +120,7 @@
             "name":"9to5google.com"
          },
          "author":"Ben Schoon",
+         "category":"science",
          "title":"Samsung debuts AI-powered ‘Next-generation Bixby,’ but you can’t use it yet [Gallery] - 9to5Google",
          "description":"After teasing its arrival earlier this year, Samsung has just launched “Next-generation Bixby” for Galaxy devices, but it’s not available...",
          "url":"http://9to5google.com/2024/11/06/samsung-next-generation-bixby-china/",
@@ -125,6 +134,7 @@
             "name":"Gizmodo.com"
          },
          "author":"Dua Rashid",
+         "category":"education",
          "title":"Google Confirms Jarvis AI Is Real by Accidentally Leaking It - Gizmodo",
          "description":"Google accidentally leaked its AI agent on the Chrome extension store but quickly removed it. However some users did manage to download it.",
          "url":"https://gizmodo.com/google-confirms-jarvis-ai-is-real-by-accidentally-leaking-it-2000521089",
@@ -138,6 +148,7 @@
             "name":"Windows Central"
          },
          "author":"Sean Endicott",
+         "category":"education",
          "title":"Office and Microsoft 365 will soon cost more, and it's all Copilot AI's fault - Windows Central",
          "description":"The price increase is due to the addition of Copilot into various Microsoft 365 apps, including Word, Excel, PowerPoint, Outlook, and OneNote.",
          "url":"https://www.windowscentral.com/microsoft/office-and-microsoft-365-will-soon-cost-more-and-its-all-copilot-ais-fault",
@@ -151,6 +162,7 @@
             "name":"CNET"
          },
          "author":null,
+         "category":"education",
          "title":"PS5 Pro Review: The Best Console Graphics Yet - CNET",
          "description":"In my week of testing, the PlayStation 5 Pro delivered better visuals than the standard PS5, but it doesn't come cheap.",
          "url":"https://www.cnet.com/tech/gaming/ps5-pro-review-the-best-console-graphics-yet-playstation-5/",
@@ -164,6 +176,7 @@
             "name":"Forbes"
          },
          "author":"Paul Tassi",
+         "category":"sports",
          "title":"Metacritic Responds To ‘Dragon Age: The Veilguard’ Review Bombing - Forbes",
          "description":"A wide divide opened up after Dragon Age: The Veilguard’s launch between Metacritic user scores, and those other platforms.",
          "url":"https://www.forbes.com/sites/paultassi/2024/11/06/metacritic-responds-to-dragon-age-the-veilguard-review-bombing/",
@@ -177,6 +190,7 @@
             "name":"Forbes"
          },
          "author":"Paul Tassi",
+         "category":"sports",
          "title":"Elon Musk Says He’s A Global Top 20 ‘Diablo 4’ Player, And It’s Actually True - Forbes",
          "description":"Elon Musk has revealed that he’s one of the top 20 Diablo 4 players in the world, a list which contains only two Americans.",
          "url":"https://www.forbes.com/sites/paultassi/2024/11/06/elon-musk-says-hes-a-global-top-20-diablo-4-player-and-its-actually-true/",
@@ -190,6 +204,7 @@
             "name":"Notebookcheck.net"
          },
          "author":"Sebastian Bade",
+         "category":"sports",
          "title":"AMD Ryzen 7 9800X3D desktop CPU review: No chance for Intel's Arrow Lake against AMD's new gaming CPU with 3D V-Cache and Zen 5 architecture - Notebookcheck.net",
          "description":"Notebookcheck has tested the new AMD Ryzen 7 9800X3D based on Zen 5 architecture. It shows more significant improvements compared to Zen 4 and mainly impresses with its higher IPC performance.",
          "url":"https://www.notebookcheck.net/AMD-Ryzen-7-9800X3D-desktop-CPU-review-No-chance-for-Intel-s-Arrow-Lake-against-AMD-s-new-gaming-CPU-with-3D-V-Cache-and-Zen-5-architecture.913732.0.html",
@@ -203,6 +218,7 @@
             "name":"IGN"
          },
          "author":"Ryan Dinsdale",
+         "category":"tourism",
          "title":"It Takes Almost 2 Years to Complete Just the First Pokémon TCG Pocket Set, Unless You Spend Money - IGN",
          "description":"A Pokémon Trading Card Game Pocket player has calculated just how long it takes to complete the first set, Genetic Apex, and those not looking to spend any money can expect to be collecting 'em all for towards two years.",
          "url":"https://www.ign.com/articles/it-takes-almost-2-years-to-complete-just-the-first-pokmon-tcg-pocket-set-unless-you-spend-money",
@@ -216,12 +232,27 @@
             "name":"Google News"
          },
          "author":"WIRED",
+         "category":"tourism",
          "title":"9 Walmart Deals That Meet or Beat Black Friday Prices - WIRED",
          "description":null,
          "url":"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zSm5wQ1Y2dmhrUEh6d2xITnFCY200THhvUnAyei1mM29QaGpQaUlKRmFiQmI3N2Y1Q3lrMnRIUTI0OGlLU0cyMDdqMlJaUEJ4LW9La2ZBZG1BUE9BTnh2QlRycEJSYTA?oc=5",
          "urlToImage":null,
          "publishedAt":"2024-11-06T12:38:00Z",
          "content":null
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"Gizmodo.com"
+         },
+         "author":"Dua Rashid",
+         "category":"tourism",
+         "title":"Google Confirms Jarvis AI Is Real by Accidentally Leaking It - Gizmodo",
+         "description":"Google accidentally leaked its AI agent on the Chrome extension store but quickly removed it. However some users did manage to download it.",
+         "url":"https://gizmodo.com/google-confirms-jarvis-ai-is-real-by-accidentally-leaking-it-2000521089",
+         "urlToImage":"https://gizmodo.com/app/uploads/2024/11/google-logo.jpg",
+         "publishedAt":"2024-11-06T16:43:14Z",
+         "content":"Google accidentally posted a preview of its upcoming AI tool, Jarvis AI, on the Chrome extension store but quickly deleted it (via The Information).\r\nThis comes just a few weeks after the initial new… [+2101 chars]"
       }
    ]
 }
