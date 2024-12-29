@@ -8,7 +8,7 @@
             "name":"Nintendo Life"
          },
          "author":"Liam Doolan",
-         "category":"entertainment",
+         "category":"science",
          "title":"My Nintendo Store Adds New Mario & Luigi: Brothership Exclusive Reward (US) - Nintendo Life",
          "description":"Celebrate with some themed goodies",
          "url":"https://www.nintendolife.com/news/2024/11/my-nintendo-store-adds-new-mario-and-luigi-brothership-rewards",
@@ -22,7 +22,7 @@
             "name":"The Verge"
          },
          "author":"Umar Shakir",
-         "category":"entertainment",
+         "category":"science",
          "title":"Take-Two is selling its indie games label Private Division - The Verge",
          "description":"Take-Two’s indie game publishing label, Private Division, has been sold to an unknown buyer, however No Rest for the Wicked will remain with Take-Two.",
          "url":"https://www.theverge.com/2024/11/6/24289932/take-two-private-division-publisher-sale",
@@ -50,7 +50,7 @@
             "name":"The Verge"
          },
          "author":"Sheena Vasani",
-         "category":"entertainment",
+         "category":"science",
          "title":"Galaxy S25 ‘Slim’ rumors suggest a skinny phone showdown next year - The Verge",
          "description":"A product database shows Samsung might add a new model to the Galaxy S25 lineup, following rumors of a “slim” phone to compete with a rumored iPhone 17 slim.",
          "url":"https://www.theverge.com/2024/11/6/24289757/samsung-galaxy-s25-slim-iphone-17-rumor-sm-s937u",
@@ -92,7 +92,7 @@
             "name":"MacRumors"
          },
          "author":"Joe Rossignol",
-         "category":"science",
+         "category":"economy",
          "title":"Apple Intelligence Servers Expected to Start Using M4 Chips Next Year After M2 Ultra This Year - MacRumors",
          "description":"Apple plans to start using the M4 chip in its Apple Intelligence servers next year, according to a Nikkei Asia report this week, citing TrendForce...",
          "url":"https://www.macrumors.com/2024/11/06/apple-intelligence-servers-with-m4-chips-report/",
@@ -106,7 +106,7 @@
             "name":"New York Post"
          },
          "author":"Taylor Knight",
-         "category":"science",
+         "category":"economy",
          "title":"Here’s how to tell if your air fryer is spying on you: ‘This is often done’ - New York Post ",
          "description":"Frying and spying.",
          "url":"https://nypost.com/2024/11/06/tech/heres-how-to-tell-if-your-air-fryer-is-spying-on-you-this-is-often-done/",
@@ -120,7 +120,7 @@
             "name":"9to5google.com"
          },
          "author":"Ben Schoon",
-         "category":"science",
+         "category":"economy",
          "title":"Samsung debuts AI-powered ‘Next-generation Bixby,’ but you can’t use it yet [Gallery] - 9to5Google",
          "description":"After teasing its arrival earlier this year, Samsung has just launched “Next-generation Bixby” for Galaxy devices, but it’s not available...",
          "url":"http://9to5google.com/2024/11/06/samsung-next-generation-bixby-china/",
@@ -134,7 +134,7 @@
             "name":"Gizmodo.com"
          },
          "author":"Dua Rashid",
-         "category":"education",
+         "category":"nature",
          "title":"Google Confirms Jarvis AI Is Real by Accidentally Leaking It - Gizmodo",
          "description":"Google accidentally leaked its AI agent on the Chrome extension store but quickly removed it. However some users did manage to download it.",
          "url":"https://gizmodo.com/google-confirms-jarvis-ai-is-real-by-accidentally-leaking-it-2000521089",
@@ -148,7 +148,7 @@
             "name":"Windows Central"
          },
          "author":"Sean Endicott",
-         "category":"education",
+         "category":"nature",
          "title":"Office and Microsoft 365 will soon cost more, and it's all Copilot AI's fault - Windows Central",
          "description":"The price increase is due to the addition of Copilot into various Microsoft 365 apps, including Word, Excel, PowerPoint, Outlook, and OneNote.",
          "url":"https://www.windowscentral.com/microsoft/office-and-microsoft-365-will-soon-cost-more-and-its-all-copilot-ais-fault",
@@ -162,7 +162,7 @@
             "name":"CNET"
          },
          "author":null,
-         "category":"education",
+         "category":"nature",
          "title":"PS5 Pro Review: The Best Console Graphics Yet - CNET",
          "description":"In my week of testing, the PlayStation 5 Pro delivered better visuals than the standard PS5, but it doesn't come cheap.",
          "url":"https://www.cnet.com/tech/gaming/ps5-pro-review-the-best-console-graphics-yet-playstation-5/",
@@ -218,7 +218,7 @@
             "name":"IGN"
          },
          "author":"Ryan Dinsdale",
-         "category":"tourism",
+         "category":"food",
          "title":"It Takes Almost 2 Years to Complete Just the First Pokémon TCG Pocket Set, Unless You Spend Money - IGN",
          "description":"A Pokémon Trading Card Game Pocket player has calculated just how long it takes to complete the first set, Genetic Apex, and those not looking to spend any money can expect to be collecting 'em all for towards two years.",
          "url":"https://www.ign.com/articles/it-takes-almost-2-years-to-complete-just-the-first-pokmon-tcg-pocket-set-unless-you-spend-money",
@@ -232,7 +232,7 @@
             "name":"Google News"
          },
          "author":"WIRED",
-         "category":"tourism",
+         "category":"food",
          "title":"9 Walmart Deals That Meet or Beat Black Friday Prices - WIRED",
          "description":null,
          "url":"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zSm5wQ1Y2dmhrUEh6d2xITnFCY200THhvUnAyei1mM29QaGpQaUlKRmFiQmI3N2Y1Q3lrMnRIUTI0OGlLU0cyMDdqMlJaUEJ4LW9La2ZBZG1BUE9BTnh2QlRycEJSYTA?oc=5",
@@ -246,7 +246,7 @@
             "name":"Gizmodo.com"
          },
          "author":"Dua Rashid",
-         "category":"tourism",
+         "category":"food",
          "title":"Google Confirms Jarvis AI Is Real by Accidentally Leaking It - Gizmodo",
          "description":"Google accidentally leaked its AI agent on the Chrome extension store but quickly removed it. However some users did manage to download it.",
          "url":"https://gizmodo.com/google-confirms-jarvis-ai-is-real-by-accidentally-leaking-it-2000521089",
